@@ -75,3 +75,17 @@ Deploying high-throughput computer vision models at scale requires balancing dee
 | [**High-Resolution Clinical Diagnostic Imaging (MedTech)**](details/clinical_diagnostic_imaging.md) | 2012 | [Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images](https://papers.nips.cc/paper/2012/hash/45c48cce2e2d7fbdea1afc51c7c6ad26-Abstract.html) | Processes massive multi-megapixel medical scans (such as MRIs, CT volumes, X-rays, and digital pathology slides). Fully Convolutional Networks (FCNs) execute automated pixel-level tissue segmentation, helping radiologists identify microscopic tumor boundaries and rare structural fractures with high precision. |
 | [**Industrial Automated Quality Control & Inspection**](details/industrial_quality_control.md) | 2016 | [Deep Learning for Industrial Metadata / Inspection](https://arxiv.org/abs/1607.06106) | Monitors high-speed automated factory assembly lines. Embedded edge CNNs process live visual data from high-resolution micro-cameras, screening circuit boards or mechanical assemblies for micro-defects (such as hairline cracks or missing components) and halting the line instantly if a structural anomaly is identified. |
 
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Convolutional-Neural-Networks&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Convolutional-Neural-Networks&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Convolutional-Neural-Networks&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Convolutional-Neural-Networks&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+
